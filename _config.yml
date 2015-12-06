@@ -1,8 +1,4 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+name: Pallados
 opengraph:
   image: null
   type: null
@@ -32,9 +28,13 @@ color:
     - '#A2775C'
   rhythmicContrast: 0.8145264
 typography_spectrum: 0.05247225356288254
-layout_spectrum: 0.4471717453561723
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-name: Pallados
+favicon: null
+layout_spectrum: 0.8978494
