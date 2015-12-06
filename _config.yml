@@ -14,8 +14,8 @@ collections:
       number: 10
 color:
   saturation: 1
+  lightness: 0.5268817
   brandStrength: 1
-  lightness: 1
   brandColors:
     - '#ffffff'
     - '#ccbfac'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Pallados
 favicon: null
+name: Pallados
 opengraph:
   image: null
   type: null
