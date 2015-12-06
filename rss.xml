@@ -4,7 +4,7 @@
         <description><![CDATA[Pallados Consulting]]></description>
         <link>https://thegrid.ai/pallados/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 21:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Dec 2015 21:46:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pallados/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Glaucus Booking]]></title>
@@ -28,11 +28,11 @@
             <pubDate>Sun, 06 Dec 2015 19:23:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sunset Spikkestad]]></title>
-            <description><![CDATA[<article><h1>Sunset Spikkestad</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2bbb55f6417cba4771d03b2c62434004e02f235.png"></article>]]></description>
-            <link>https://thegrid.ai/pallados/sunset-spikkestad/index.html</link>
+            <title><![CDATA[Sunset Røyken]]></title>
+            <description><![CDATA[<article><h1>Sunset Røyken</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2bbb55f6417cba4771d03b2c62434004e02f235.png"></article>]]></description>
+            <link>urn:uuid:80b77bc1-90a3-48eb-954b-e8a8e3613612</link>
             <guid isPermaLink="false">418bde87-bff2-4dd3-b697-d18800ec6518</guid>
-            <pubDate>Sun, 06 Dec 2015 18:36:17 GMT</pubDate>
+            <pubDate>Sun, 06 Dec 2015 21:46:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
