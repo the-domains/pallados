@@ -1,0 +1,40 @@
+favicon: null
+name: Pallados
+opengraph:
+  image: null
+  type: null
+  appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
+color:
+  saturation: 0.1648746
+  brandStrength: 0.7210931330919266
+  lightness: 0
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  rhythmicContrast: 0.8145264
+typography_spectrum: 0.05247225356288254
+layout_spectrum: 0.4471717453561723
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
