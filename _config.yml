@@ -14,8 +14,8 @@ collections:
       number: 10
 color:
   saturation: 1
+  brandStrength: 0
   lightness: 0.5268817
-  brandStrength: 1
   brandColors:
     - '#ffffff'
     - '#ccbfac'
