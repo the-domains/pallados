@@ -1,4 +1,8 @@
-name: Pallados
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -17,24 +21,20 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.8315412
+  saturation: 0
+  lightness: 0.7240143
   brandStrength: 0.7210931330919266
-  lightness: 1
   brandColors:
     - '#02011F'
     - '#284178'
     - '#FAFACF'
     - '#64809A'
     - '#A2775C'
-  rhythmicContrast: 0.8145264
+  rhythmicContrast: 0.01971326
 typography_spectrum: 0.05247225356288254
+layout_spectrum: 0.8978494
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-layout_spectrum: 0.8978494
+name: Pallados
