@@ -1,8 +1,7 @@
 name: Pallados
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.7777778
+typography_spectrum: 0.3010753
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.5752688
-  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#CCBFAC'
     - '#60A845'
     - '#A0C787'
     - '#329427'
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
   rhythmicContrast: 0.546595
-typography_spectrum: 0.3010753
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.7777778
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
