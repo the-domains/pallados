@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 1
   brandStrength: 0.1875
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Pallados
 favicon: null
+name: Pallados
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.3010753
-layout_spectrum: 1
+layout_spectrum: 0.1648746
