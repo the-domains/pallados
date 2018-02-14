@@ -1,5 +1,21 @@
+layout_spectrum: 0.19398006565214163
+typography_spectrum: 0.7176510025151442
+color:
+  saturation: 0.5574762125674746
+  brandStrength: 0.8967384366941924
+  lightness: 0.966642623763015
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  rhythmicContrast: 0.534889194210438
 title: Pallados Consulting
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:jan@pallados.no'
+    label: Contact me
 collections:
   - index:
       path: /
@@ -12,30 +28,52 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 0.2741936
-  lightness: 0.75
-  brandColors:
-    - '#CCC0AC'
-    - '#5FA945'
-    - '#FFFFFF'
-    - '#010301'
-    - '#606E5B'
-  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
   domain: null
 analytics:
-  twitter: null
-  google: null
+  twitter: Pallados Consulting AS
+  google: UA-40472227-1
   facebook: null
 name: Pallados
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc9abb04-0e84-41fb-98d6-07f1de5f510c.ico
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.2043011
-layout_spectrum: 1
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1b45e40-614d-421a-9895-0214f6d95656.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1b45e40-614d-421a-9895-0214f6d95656.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Software development services
+url: 'https://www.pallados.no'
+author:
+  name: Jan Magne Andersen
+  email: jan@pallados.no
+  url: 'https://twitter.com/janmande'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/710419c3-ea13-4de9-9467-216cd026525f.png
+github: true
