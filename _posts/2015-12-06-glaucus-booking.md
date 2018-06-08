@@ -37,12 +37,12 @@ keywords:
   - laget
   - integrasjonen
   - arrangmenter
-description: Glaucus Booking
+description: Online booking
 app_links: []
 isBasedOnUrl: 'http://www.pallados.no/glaucus-booking/'
-title: Online booking
-datePublished: '2018-06-08T12:41:34.040Z'
-dateModified: '2018-06-08T12:41:33.267Z'
+title: Glaucus Booking
+datePublished: '2018-06-08T12:42:30.727Z'
+dateModified: '2018-06-08T12:42:30.262Z'
 sourcePath: _posts/2015-12-06-glaucus-booking.md
 inFeed: true
 hasPage: false
@@ -55,6 +55,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Glaucus Booking
+Online booking
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27cbffd60e6b23122b26d9076e691e625eae7533.jpg" /><h1>Online booking</h1><p>Glaucus Booking er et enkelt online system for å administrere påmeldinger til arrangmenter. Du lager enkelt et nytt arrangement og kan legge til egne felt som brukerne må fylle ut for å melde seg på. Registrer deg gratis i dag: http://www.glaucusbooking.com Systemet sender deg automatisk e-post når du mottar en ny påmelding og du kan kommunisere med de påmeldte på e-post og SMS direkte.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27cbffd60e6b23122b26d9076e691e625eae7533.jpg" /><h1>Glaucus Booking</h1><p>Glaucus Booking er et enkelt online system for å administrere påmeldinger til arrangmenter. Du lager enkelt et nytt arrangement og kan legge til egne felt som brukerne må fylle ut for å melde seg på. Registrer deg gratis i dag: http://www.glaucusbooking.com Systemet sender deg automatisk e-post når du mottar en ny påmelding og du kan kommunisere med de påmeldte på e-post og SMS direkte.</p></article>
